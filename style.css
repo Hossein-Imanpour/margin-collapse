@@ -1,0 +1,14 @@
+.p1{
+    background-color: hsl(170,70%,50%);
+    margin-bottom: 40px;
+}
+ /* Now we have a margin collapse */
+.p2{
+    background-color: hsl(170,70%,50%);
+    margin-top: 10px;
+}
+.parent{
+    background-color: #ccc;
+    height: 45vh;
+    padding: 1rem;
+}
